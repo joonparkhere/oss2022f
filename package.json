@@ -1,0 +1,25 @@
+{
+  "name": "oss2022f-stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joonparkhere/oss2022f-stat.git"
+  },
+  "bin": {
+    "skku-stat": "./main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joonparkhere/oss2022f-stat/issues"
+  },
+  "homepage": "https://github.com/joonparkhere/oss2022f-stat#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
