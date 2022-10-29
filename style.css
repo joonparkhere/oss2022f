@@ -1,0 +1,17 @@
+* {
+    background: black;
+    color: white;
+    align-items: center;
+}
+
+.custom-body {
+    margin: 1rem;
+}
+
+.align-text-center {
+    text-align: center;
+}
+
+.custom-a-tag {
+    color: white;
+}
